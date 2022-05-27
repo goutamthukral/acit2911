@@ -1,4 +1,4 @@
-#ACIT2911 Project - Book Study Space
+##ACIT2911 Project - Book Study Space
 
 Study Room Booking Web App
 
@@ -20,11 +20,11 @@ The data in these files is accessed through various defined classes and methods.
 Proper naming conventions are used for classes like Room, Availability, Users.  
 
 #Notes:  
--flask webapp is in app.py   
--templates has all the HTML pages  
--static has necessary css and javascript files  
--data has all the JSON files to store data  
--models has all the classes and methods to access the data  
+- flask webapp is in app.py   
+- templates has all the HTML pages  
+- static has necessary css and javascript files  
+- data has all the JSON files to store data  
+- models has all the classes and methods to access the data  
 
 #Running in local directory:
 - Clone the repository
@@ -38,11 +38,11 @@ The webapp can be accessed from below link
 https://studyroombooking.azurewebsites.net/
 
 admin view can be accessed through
-https://studyroombooking.azurewebsites.net/admin/login
-login-admin 
-password-password
+https://studyroombooking.azurewebsites.net/admin/login  
+login-admin   
+password-password  
 
-feature to change admin password can be accessed through
+feature to change admin password can be accessed through  
 https://studyroombooking.azurewebsites.net/admin/change_password
 
 
